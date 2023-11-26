@@ -9,4 +9,4 @@ The project is divided in 3 segments:
 Its utilization is huge is recommendation systems, e-commerce websites and many more feedback based customer services.
 
 Demo:
-![Alt text]([https://github.com/101vinayak/Review_Analysis_using_NLP/edit/master/README.md#:~:text=Screenshot%202023-,%2D,-11%2D27%20at](https://github.com/101vinayak/Review_Analysis_using_NLP/blob/master/Screenshot%202023-11-27%20at%202.34.39%20AM.png)https://github.com/101vinayak/Review_Analysis_using_NLP/blob/master/Screenshot%202023-11-27%20at%202.34.39%20AM.png)
+![Results](https://github.com/101vinayak/Review_Analysis_using_NLP/blob/master/Screenshot%202023-11-27%20at%202.34.39%20AM.png)
