@@ -7,3 +7,6 @@ The project is divided in 3 segments:
 3. The transcripts are ranked and provided a score. The average score of the complete 'N' video transcripts is used to provide a review score for the product.
 
 Its utilization is huge is recommendation systems, e-commerce websites and many more feedback based customer services.
+
+Demo:
+![Alt text](https://github.com/101vinayak/Review_Analysis_using_NLP/edit/master/README.md#:~:text=Screenshot%202023-,%2D,-11%2D27%20at)
